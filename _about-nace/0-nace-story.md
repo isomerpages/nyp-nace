@@ -14,7 +14,42 @@ We can help, not only to systematically put in place training systems and certif
 NACE draws on the expertise of international institutions - the Swiss Federal Institute for Vocational Education and Training <a href="#SFIVET">(SFIVET)</a>, the German Chamber of Industry & Commerce (IHK Akademie) and the Singaporean-German Chamber of Industry and Commerce (SGC).
 
 
-
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
 
 ### SFIVET
 The Swiss Federal Institute of Vocational Education and Training (SFIVET) oversees Vocational Education and Training practitioners, provides research and international education, develop careers and training cooperation in Switzerland. It serves as the contact point for international cooperation and is the governmental centre of competence for the provision of tertiary-level training. SFIVET also carries out various tasks and research activities on behalf of the State Secretariat for Education, Research and Innovation (SERI).
