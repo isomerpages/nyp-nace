@@ -1,5 +1,5 @@
-title: Title
-title-abbreviated: Title
+title: National Centre of Excellence for Workplace Learning
+title-abbreviated: NACE
 description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -44,4 +44,6 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   about-nace:
     output: true
+  test-new-feature:
+    output: true  
 resources_name: news
