@@ -31,7 +31,7 @@ The Chamber of Industry and Commerce (IHK) for Munich and Upper Bavaria is Germa
 The IHK Akademie is the vocational educational and training partner of IHK for Munich and Upper Bavaria, offering over 600 in-house programmes and masterclasses which can be tailored to the needs of companies.
 
 
-fiona
+#fiona
 The Singaporean-German Chamber of Industry and Commerce (SGC) is part of a network of 130 offices of the German bilateral Chambers of Industry and Commerce abroad in 90 countries.
 
 It is one of the largest national business chambers in Singapore and its mandate includes the provision of market research, the production, dissemination of publications, and coaching/advisory issues.
