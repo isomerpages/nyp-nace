@@ -99,5 +99,5 @@ function setClass(els, className, fnName) {
 
 <h3>FAQs</h3>
 
-<p class="accordion">Q1. What currency is the course charged in?</p>
+<p class="accordion">Q1. What is WpL?</p>
 <div class="panel">A. The course is charged in Australian dollars.</div>
