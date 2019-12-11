@@ -29,7 +29,8 @@
   sub-links:
   - title: FAQ
     url: /test/faq/
-  
+  - title: FAQ-2
+    url: /test/faq2/ 
   
   
   
