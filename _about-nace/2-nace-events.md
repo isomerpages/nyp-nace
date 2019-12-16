@@ -9,13 +9,13 @@ collection_name: about-nace
 
 # Marina Bay
 <br> 
-     <a href="/test/faq"> <img src="/images/team.jpg" /></a>
+     <a href="/test/faq/"> <img src="/images/team.jpg"/> <style="width:285px;height:300px;"></a>
       <font color="orangered"><b>Build a Dream Light Projection Shows</b></font>
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>
       <font color="orangered"><br> @ The Fullerton Hotel Singapore, ArtScience Museum and The Merlion </font>
       <br>
       <br>Build a Dream returns to bring cheers to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
 Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream.
-      <font color="orangered"><b><br><a href="/build-a-dream/">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="/test/faq/">Find Out More</a></b></font>
       <br>
       <br>
