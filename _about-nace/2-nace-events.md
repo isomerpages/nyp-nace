@@ -10,7 +10,8 @@ collection_name: about-nace
 # Marina Bay
 <br> 
      <a href="/test/faq/"> <img src="/images/team.jpg" align="left" alt="team" style="width:285px;height:300px;"></a>
-      <font color="orangered" align="middle" style="color:#A6A6A6"><b>testing</b></font>
+     <br>
+      <font color="orangered" align="middle" style="color:#FFC000"><b>testing</b></font>
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>
       <font color="orangered"><br> @ The Fullerton Hotel Singapore, ArtScience Museum and The Merlion </font>
       <br>
