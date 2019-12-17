@@ -33,6 +33,17 @@ key-highlights:
     description: Page A is important too
     url: /page-A/
 
+
+
+# Info Sections
+info-sections:
+  - section-title: Test
+    section-subtitle: Testing
+    section-description: testing 2
+    section-more-button: button
+    section-more-button-url: '/framework/national-workplace-learning-framework/" target="_blank'
+
+
 resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
