@@ -37,19 +37,18 @@ key-highlights:
 
 # Info Sections
 info-sections:
-  - section-title: Test 1
+  - section-title: Test 123
     section-subtitle: Testing
     section-description: testing 2
     section-more-button: button to test
     section-more-button-url: '/framework/national-workplace-learning-framework/" target="_blank'
 
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/text
-        url: /faq/
+  - infobar:
+    title: Infobar title
+    subtitle: Subtitle
+    description: About a sentence worth of description here
+    button: Button text
+    url: /faq/
         
         
         
