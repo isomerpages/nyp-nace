@@ -43,7 +43,15 @@ info-sections:
     section-more-button: button
     section-more-button-url: '/framework/national-workplace-learning-framework/" target="_blank'
 
-
+infobar:
+  - title: Infobar title
+    subtitle: Subtitle
+    description: About a sentence worth of description here
+    button: Button text
+    url: /faq/
+        
+        
+        
 resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
