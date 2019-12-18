@@ -44,7 +44,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/team.jpg" alt="Aromatherapy for Travellers"></p>
+								<p><img src="/images/team.jpg" align="centre" alt="team" style="width:285px;height:300px;"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Aromatherapy makes your travels more enjoyable! This interactive course will teach you how to blend aroma therapeutic lotions with various essential oils to help you adapt to different climates and jetlag.</p>
