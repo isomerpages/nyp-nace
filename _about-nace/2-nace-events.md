@@ -30,7 +30,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 
 <div class="courseAccordion">
 	<div class="cdDesc">
-        <p><img src="/images/course-directory/cd-banner-healthwellness.png" alt="Merdeka Generation programmes - Health & Wellness"></p>
+        <p><img src="/images/team.jpg" alt="Merdeka Generation programmes - Health & Wellness"></p>
 		<p>Our minds and bodies need our tender, loving care so that we can live life to the fullest. With great health, we maintain the freedom to fulfil our dreams.</p>
 		<p>Dance, yoga, or swimming – there's no need to pick just one! With our variety of Health & Wellness courses and programmes, you'll be able to find something to fit your interests.</p>
     </div>
@@ -44,7 +44,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-aromatherapy-for-travellers.jpg" alt="Aromatherapy for Travellers"></p>
+								<p><img src="/images/team.jpg" alt="Aromatherapy for Travellers"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Aromatherapy makes your travels more enjoyable! This interactive course will teach you how to blend aroma therapeutic lotions with various essential oils to help you adapt to different climates and jetlag.</p>
@@ -76,7 +76,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-aromatherapy-skincare.jpg" alt="Aromatherapy Skincare"></p>
+								<p><img src="/images/team.jpg"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Be free of chemical products with aromatherapy! Gain tips on the benefits of using essential oils and other natural ingredients for your daily skincare routine.</p>
