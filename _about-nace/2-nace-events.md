@@ -14,7 +14,6 @@ collection_name: about-nace
 <br>
 <br>
 <br>
-<br>
       <font color="orangered" style="color:#FFC000"><b>testing</b></font>
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>
       <font color="orangered"><br> @ The Fullerton Hotel Singapore, ArtScience Museum and The Merlion </font>
@@ -30,7 +29,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 
 <div class="courseAccordion">
 	<div class="cdDesc">
-        <p><img src="/images/team.jpg" align="left" alt="team" style="width:285px;height:300px;"></p>
+        <p><img src="/images/team.jpg" alt="team" style="width:285px;height:300px;"></p>
 		<p>Our minds and bodies need our tender, loving care so that we can live life to the fullest. With great health, we maintain the freedom to fulfil our dreams.</p>
 		<p>Dance, yoga, or swimming – there's no need to pick just one! With our variety of Health & Wellness courses and programmes, you'll be able to find something to fit your interests.</p>
     </div>
