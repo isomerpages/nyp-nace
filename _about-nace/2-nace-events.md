@@ -30,7 +30,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 
 <div class="courseAccordion">
 	<div class="cdDesc">
-        <p><img src="/images/team.jpg" alt="Merdeka Generation programmes - Health & Wellness"></p>
+        <p><img src="/images/team.jpg" align="left" alt="team" style="width:285px;height:300px;"></p>
 		<p>Our minds and bodies need our tender, loving care so that we can live life to the fullest. With great health, we maintain the freedom to fulfil our dreams.</p>
 		<p>Dance, yoga, or swimming – there's no need to pick just one! With our variety of Health & Wellness courses and programmes, you'll be able to find something to fit your interests.</p>
     </div>
@@ -76,7 +76,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/team.jpg"></p>
+								<p><img src="/images/team.jpg" align="right" alt="team" style="width:285px;height:300px;"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Be free of chemical products with aromatherapy! Gain tips on the benefits of using essential oils and other natural ingredients for your daily skincare routine.</p>
