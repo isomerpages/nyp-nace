@@ -12,7 +12,7 @@ collection_name: test
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 
-### Frequently Asked Questions
+### Frequently Asked Questions faq
 
 Below are some questions and answers that would help you learn more about Workplace Learning:
 
@@ -26,8 +26,7 @@ Workplace Learning is...
 
 **Importance:** [open in new tab](workplacelearning.gov.sg){:target="_blank"}
 
-
-
+---
 
 
 Below are some questions and answers about other things:
