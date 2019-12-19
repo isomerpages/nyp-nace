@@ -37,7 +37,7 @@ key-highlights:
 
 # Info Sections
 info-sections:
-  - section-title: Test 123567890
+  - section-title: Test 11
     section-subtitle: Testing
     section-description: testing 2
     section-more-button: button to test
@@ -46,11 +46,11 @@ info-sections:
 
 sections:      
   - infobar:
-      title: Title
-      subtitle: new subtitle
-      description: stuff
-      button: ago
-      url: /test/
+    title: Title
+    subtitle: new subtitle
+    description: stuff
+    button: ago
+    url: /test/
 
 
         
