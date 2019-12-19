@@ -1,29 +1,12 @@
 ---
-layout: simple-page
-title: test table
-permalink: /test/tables
-collection_name: test
+title: formsg within page
+permalink: /test/formsg/
+breadcrumb: formsg
 ---
 
-- title: 1980-1989
-  years:
-    - subtitle: 1980
-      description:
-      - line: "<b>Civil Service Computerisation Programme:</b> The start of Singapore’s public sector infocomm journey, seeking to enhance operational efficiency via the adoption of infocomm technology."
-    - subtitle: 1989
-      description:
-      - line: "<b>TradeNet:</b> Convenient and easy-to-use documentation processing and clearance platform for the trade and logistics community."
-      
-      
-      
-      # Organisational Structure
-organisational-structure:
-  - title: CE Office
-    teams:
-      - name: Internal Audit
-  - title: Corporate Services
-    teams:
-      - name: Communications and Marketing Group (CMG)
-        link:
-      - name: Development & Organisation Transformation (DOT)
-        link:
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5dc80f7c03b2790012428dc5">here</a>.</div>
+
+<!-- Change the width and height values to suit you best -->
+<iframe id="iframe" src="https://form.gov.sg/5dc80f7c03b2790012428dc5" style="width:100%;height:500px"></iframe>
+
+<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
