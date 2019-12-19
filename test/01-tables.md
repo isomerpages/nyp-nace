@@ -12,6 +12,3 @@ breadcrumb: formsg
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
-Notes
-Notes 
-Notes
