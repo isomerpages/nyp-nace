@@ -43,9 +43,8 @@ info-sections:
     section-more-button: button to test
     section-more-button-url: '/framework/national-workplace-learning-framework/" target="_blank'
 
-
 sections:      
-  - infobar:
+  - infobar: This is really not possible
     title: Title
     subtitle: new subtitle
     description: stuff
