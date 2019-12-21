@@ -36,6 +36,11 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 </div>
 
 
+<div style="float: left">Left Text</div>
+<div style="float: right">Right Text</div>
+<div style="margin: 0 auto; width: 100px;">Centered Text</div>
+
+
 
 [Back to top](#top)
 
