@@ -29,8 +29,17 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 
 
 
+<div id="textbox">
+     <p class="alignleft"><a href="#top">[Back to top]</a></p>
+     <p class="alignright">Text on the right.</p>
+</div>
 
-<a href="#top">[Back to top]</a>
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
 
 
 [Back to top](#top)
