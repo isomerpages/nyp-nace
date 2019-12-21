@@ -100,3 +100,12 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>
+
+
+
+
+
+
+
+[Back to top](#top)
+
