@@ -9,7 +9,7 @@ collection_name: about-nace
 
 
 <a name="top"></a>
-# Marina Bay
+# Marina
 <br> 
      <a href="/test/faq/"> <img src="/images/team.jpg" align="left" alt="team" style="width:285px;height:300px;"></a>
 <br>
@@ -30,16 +30,11 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 
 
 <div id="textbox">
-     <p class="alignleft"><a href="#top">[Back to top]</a></p>
-     <p class="alignright">Text on the right.</p>
+     <a href="#top">[Back to top]</a>
+	
+     <p align="right"> How to Carve Wood </p>
 </div>
 
-.alignleft {
-	float: left;
-}
-.alignright {
-	float: right;
-}
 
 
 [Back to top](#top)
