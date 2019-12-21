@@ -1,5 +1,5 @@
 ---
-layout: faq 
+layout: simple-page 
 title: FAQ
 permalink: /test/faq
 collection_name: test
@@ -12,7 +12,7 @@ collection_name: test
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 
-### Frequently Asked Questions part a
+### Frequently Asked Questions part aaaaa
 
 Below are some questions and answers that would help you learn more about Workplace Learning:
 
