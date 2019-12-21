@@ -7,6 +7,8 @@ collection_name: about-nace
 ---
 
 
+
+<a name="top"></a>
 # Marina Bay
 <br> 
      <a href="/test/faq/"> <img src="/images/team.jpg" align="left" alt="team" style="width:285px;height:300px;"></a>
@@ -27,6 +29,8 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 
 
 
+
+<a href="#top">[Back to top]</a>
 
 
 [Back to top](#top)
