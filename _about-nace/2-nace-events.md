@@ -30,9 +30,8 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 
 
 <div id="textbox">
-     <a href="#top">[Back to top]</a>
-	
-     <p align="right"> How to Carve Wood </p>
+	<span><a href="#top">[Back to top]</a></span>
+	<span class="align-right"><a>Right</a></span>
 </div>
 
 
