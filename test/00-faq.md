@@ -42,10 +42,11 @@ a. ans1
 b. ans2
 c. ans3
 
-**open up:** [open in new tab](www.workplacelearning.gov.sg){:target="_blank"}
+**open up:** [open in new tab](http://www.workplacelearning.gov.sg){:target="_blank"}
 
 ---
 
+# 
 part c:
 
 {: #qnc1}
