@@ -20,6 +20,8 @@ collection_name: about-nace
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>
       <font color="orangered"><br> @ The Fullerton Hotel Singapore, ArtScience Museum and The Merlion </font>
       <br>
+      
+<a name="parag"></a>
       <br>Build a Dream returns to bring cheers to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
 Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream.
       <font color="orangered"><b><br><a href="/test/faq/">Find Out More</a></b></font>
@@ -41,5 +43,5 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 
 
 
-[Back to top](#top)
+[Back to top](#parag)
 
