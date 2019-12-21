@@ -30,8 +30,8 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
 
 
 <div id="textbox">
-	<span><a href="#top">[Back to top]</a></span>
-	<span style="float:center"><a href="https://nyp-nace-staging.netlify.com/">Middle</a></span>
+	<span><a href="#top">Back to top</a></span>
+	<span style="text-align:center"><a href="https://nyp-nace-staging.netlify.com/">Middle</a></span>
 	<span style="float:right"><a href="https://nyp-nace-staging.netlify.com/">Home Page</a></span>
 </div>
 
