@@ -1,7 +1,7 @@
 ---
 layout: faq
-title: FAQ
-permalink: /test/faq
+title: Frequently Asked Questions
+permalink: /resources/faq
 collection_name: test
 ---
 
@@ -12,43 +12,42 @@ collection_name: test
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 
-### Frequently Asked Questions part 
+### Frequently Asked Questions
 
-Below are some questions and answers that would help you learn more about Workplace Learning:
+We hope the following will help you learn more about Workplace Learning:
 
-{: #qna1}
-#### What is Workplace Learning?
-Workplace Learning is...
+{: #qnA1}
+#### Question A1
+Answer 1
 
-{: #qna2}
-#### Why is Workplace Learning important?
-**Workplace Learning:** xxxxx
-
-**Importance:** [open in new tab](workplacelearning.gov.sg){:target="_blank"}
-
-----------
-
-### Frequently Asked Questions part b
-Below are some questions and answers about other things:
-
-{: #qnb1}
-#### qnb1
-test test test 
-
-{: #qnb2}
-#### qnb2
-a. ans1
-
-b. ans2
-c. ans3
+{: #qnA2}
+#### Question A2
+**Answer 2:** xxxxx
 
 **open up:** [open in new tab](http://www.workplacelearning.gov.sg){:target="_blank"}
 
+----------
+
+### Header is here
+Descriptor goes here
+
+{: #qnB1}
+#### qnB1
+* **The asterisk at the left indicates a bullet dot**
+- Testing another bullet format
+
+{: #qnB2}
+#### qnB2
+a. ans B2a
+
+b. ans B2b
+
+
 ---
 
-# 
-part c:
+#      
+part c: what is there is no header?
 
 {: #qnc1}
-#### qnc1
-text 
+#### Any other enquiries?
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
